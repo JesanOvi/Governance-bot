@@ -5,10 +5,9 @@ Multi-dimensional risk assessment system for content moderation in mental health
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reddit-moderation-dashboard.git
-cd reddit-moderation-dashboard
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+git clone https://github.com/<your-username>/Governance-bot.git
+cd Governance-bot/backend
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
