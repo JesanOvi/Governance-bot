@@ -1,6 +1,6 @@
 # Reddit Moderation Dashboard
 
-Multi-dimensional risk assessment system for content moderation in mental health and support communities. Combines toxicity detection, polarity analysis, and controversy scoring to help moderators prioritize review queues without automating removal decisions.
+Multi-dimensional risk assessment system for content moderation in online communities. Combines toxicity detection, polarity analysis, and controversy scoring to help moderators prioritize review queues without automating removal decisions.
 
 ## Quick Start
 
